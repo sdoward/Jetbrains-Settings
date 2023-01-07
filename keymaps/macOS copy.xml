@@ -1,0 +1,28 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Exit" />
+  <action id="Git.Commit.Stage" />
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>
