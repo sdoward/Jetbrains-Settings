@@ -15,6 +15,7 @@
   </action>
   <action id="Exit" />
   <action id="Git.Commit.Stage" />
+  <action id="GotoLine" />
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -22,7 +23,11 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
