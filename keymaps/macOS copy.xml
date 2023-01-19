@@ -17,6 +17,7 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="CollapseSelection" />
   <action id="Exit" />
   <action id="ExtractFunction">
     <keyboard-shortcut first-keystroke="meta alt m" />
@@ -39,7 +40,7 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta comma" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta a" />
