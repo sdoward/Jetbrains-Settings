@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$SelectAll" />
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -12,6 +13,9 @@
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Exit" />
   <action id="Git.Commit.Stage" />
@@ -28,6 +32,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
