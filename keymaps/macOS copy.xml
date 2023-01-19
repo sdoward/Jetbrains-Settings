@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Exit" />
+  <action id="ExtractFunction">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoLine" />
   <action id="Gradle.ExecuteTask">
@@ -26,6 +30,7 @@
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -33,12 +38,20 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta comma" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
