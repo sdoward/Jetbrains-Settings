@@ -45,6 +45,7 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
+  <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
