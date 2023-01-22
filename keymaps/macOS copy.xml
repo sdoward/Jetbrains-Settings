@@ -25,6 +25,7 @@
   </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoLine" />
+  <action id="GotoSuperMethod" />
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -56,6 +57,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowSettings" />
   <action id="Terminal.ClearBuffer">
@@ -68,5 +72,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
