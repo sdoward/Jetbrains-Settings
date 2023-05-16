@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:org.sharethemeal.app.android" />
+    <option name="mostRecentlyUsed" value=" package:mine Track Screen" />
     <option name="nonFavorites">
       <list>
+        <option value=" package:mine Track Screen" />
         <option value="package:org.sharethemeal.app.android" />
         <option value="package:org.sharethemeal.app.android qwer" />
         <option value=" package:mine " />
