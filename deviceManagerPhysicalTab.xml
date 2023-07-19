@@ -8,9 +8,8 @@
             <value value="0ddf68510410" />
           </Key>
         </key>
-        <name value="Xiaomi M2004J19C" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -22,6 +21,16 @@
         <name value="Xiaomi M2004J19C" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
