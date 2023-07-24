@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Translations" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Translations" />
         <option value="package:mine " />
+        <option value="package:mine qwer" />
         <option value="package:mine State Change" />
         <option value="package:mine Personali" />
         <option value="package:mine level:error " />
@@ -14,14 +17,12 @@
         <option value="package:mine Intercepter" />
         <option value="package:mine exopla" />
         <option value="package:mine" />
-        <option value="package:mine qwer" />
         <option value="tag:ActivityManager" />
         <option value="package:mine Displayed" />
         <option value="package:mine App" />
         <option value="package:mine Download" />
         <option value="package:mine Ampl" />
         <option value="package:mine Analytics" />
-        <option value=" package:mine" />
       </list>
     </option>
   </component>
