@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine qwer" />
+    <option name="mostRecentlyUsed" value="package:mine calling" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine calling" />
         <option value="package:mine qwer" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine Displayed" />
         <option value="package:mine App" />
         <option value="package:mine Download" />
-        <option value="package:mine Ampl" />
       </list>
     </option>
   </component>
