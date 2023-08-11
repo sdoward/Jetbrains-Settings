@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Analytics" />
+    <option name="mostRecentlyUsed" value="package:mine qwer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine qwer" />
         <option value="package:mine Analytics" />
         <option value="package:mine  level:error " />
         <option value="package:mine " />
         <option value="package:mine token" />
         <option value="package:mine level:error " />
         <option value="package:mine WAFToken" />
-        <option value="package:mine qwer" />
         <option value="package:mine calling" />
         <option value="package:mine" />
         <option value="package:mine level:debug " />
