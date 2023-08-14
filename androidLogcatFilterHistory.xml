@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine STM" />
+        <option value="package:mine Showing ui" />
         <option value="package:mine " />
         <option value="package:mine qwer" />
         <option value="package:mine Analytics" />
@@ -22,7 +23,6 @@
         <option value="package:mine  qwer" />
         <option value="package:mine WafToken" />
         <option value="package:mine Intercepter" />
-        <option value="package:mine exopla" />
       </list>
     </option>
   </component>
