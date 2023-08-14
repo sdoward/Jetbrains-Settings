@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine STM" />
+    <option name="mostRecentlyUsed" value="package:mine le" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine le" />
         <option value="package:mine STM" />
+        <option value="package:mine error" />
         <option value="package:mine Showing ui" />
         <option value="package:mine " />
         <option value="package:mine qwer" />
@@ -18,11 +20,9 @@
         <option value="package:mine Translations" />
         <option value="package:mine State Change" />
         <option value="package:mine Personali" />
-        <option value="package:mine error" />
         <option value="package:mine  " />
         <option value="package:mine  qwer" />
         <option value="package:mine WafToken" />
-        <option value="package:mine Intercepter" />
       </list>
     </option>
   </component>
