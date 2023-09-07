@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:org.sharethemeal.app.android " />
+    <option name="mostRecentlyUsed" value="package:org.sharethemeal.app.android -tag~:mali_config" />
     <option name="nonFavorites">
       <list>
+        <option value="package:org.sharethemeal.app.android -tag~:mali_config" />
         <option value="package:org.sharethemeal.app.android " />
         <option value="package:org.sharethemeal.app.android level:error " />
         <option value="package:org.sharethemeal.app.android" />
@@ -22,7 +23,6 @@
         <option value="package:mine token" />
         <option value="package:mine level:error " />
         <option value="package:mine WAFToken" />
-        <option value="package:mine calling" />
       </list>
     </option>
   </component>
