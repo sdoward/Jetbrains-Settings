@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag:mali_config" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:mali_config tag:STM " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:mali_config tag:STM " />
         <option value="package:mine -tag:mali_config" />
         <option value="package:mine" />
         <option value="package:org.sharethemeal.app.android" />
@@ -22,7 +23,6 @@
         <option value="package:mine Analytics" />
         <option value="package:mine  level:error " />
         <option value="package:mine token" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
